@@ -1,0 +1,60 @@
+<section class="sectt">
+    <div class="right padding-vertical padding-">
+        <br class="none">
+        <br class="none">
+        <br class="none">
+        <br class="none">
+
+        <div class="text-content">
+            <div class="main-text">
+                <h1 class="heading-xlarge middle">DISCOVER THE HIDDEN ALTER EGO OF YOUR BODY</h1>
+
+                <!-- <br> -->
+                <div class="max-width">
+                    <p class="text-color-white text-align-center">
+                        Strength isn’t just physical—it’s the grit
+                    </p>
+                </div>
+
+                <center class="">
+                    <div class="services__data-item">
+                        <a href="#group-classes" class="subhead-2 ">
+                            <h3 class="services__title">Join Today <i class="ri-arrow-right-up-line"></i></h3>
+                        </a>
+                    </div>
+                </center>
+
+                <div class="margin-top margin-huge align-center">
+                    <div class="home-header_testimonial-component max-width- testing">
+                        <div class="testimonial-component_upper">
+                            <img src="https://uploads-ssl.webflow.com/6255cb896cc97d5faf18caf7/625f3b31456763462c9f3cfe_5-stars.svg"
+                                loading="lazy" alt="" class="testimonial-component_image" />
+                            <div class="testimonial-component_upper-text-wrapper">
+                                <img src="https://uploads-ssl.webflow.com/6255cb896cc97d5faf18caf7/625f3cd04101d4c3d52716be_number-of-reviews.svg"
+                                    loading="lazy" alt="Number of five star reviews"
+                                    class="testimonial-component_number-of-reviews" />
+                                <div class="testimonial-component_upper-text">
+                                    five star reviews
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial-component_lower">
+                            <img src="https://uploads-ssl.webflow.com/6255cb896cc97d5faf18caf7/625f3d9abce1fa5c807ad37c_Male.png"
+                                loading="lazy" alt="Male customer smiling" class="testimonial-component_lower-image" />
+                            <p class="testimonial-component_lower-text title_center">
+                                “6 months after joining I lost 15lbs and I’m getting fit. Grit Fitness is the way”
+                            </p>
+                        </div>
+                    </div>
+                    <br>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="img-box">
+        <img src="assets/img/gym-fitness-elements-set_1284-39992.jpg" alt="">
+    </div>
+</section>
